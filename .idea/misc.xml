@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="Python 3.5.2 virtualenv at ~/workspace/python_hackerrank/venv" project-jdk-type="Python SDK" />
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../funproxy" value="1454248946991" />
+        <entry key="$PROJECT_DIR$/../megaproxy" value="1454239561223" />
+        <entry key="$PROJECT_DIR$/../sbt_playspace" value="1437090956193" />
+        <entry key="$PROJECT_DIR$/../scala-koans" value="1443567598487" />
+        <entry key="$PROJECT_DIR$/../scala_eztable" value="1444769988834" />
+        <entry key="$PROJECT_DIR$/../scalamoo" value="1476738128644" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="$USER_HOME$/.conscript/sbt-launch.jar" />
+  </component>
+</project>
